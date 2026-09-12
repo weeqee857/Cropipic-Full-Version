@@ -239,3 +239,6 @@ This repository serves as the official landing page for CropiPic. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of CropiPic today!**
+
+---
+**Last updated:** 2026-09-12 13:53:20 UTC
